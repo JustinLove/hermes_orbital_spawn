@@ -1,13 +1,13 @@
 {
   "author": "wondible",
-  "build": "11069",
+  "build": "113953",
   "category": ["hotfix"],
   "context": "server",
-  "date": "2018/07/14",
+  "date": "2020/03/08",
   "description": "Fix Hermes spawn layer so it debug spawns in orbital",
   "display_name": "Hermes Oribital Spawn",
   "forum": null,
   "identifier": "com.wondible.pa.hermes_orbital_spawn",
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }

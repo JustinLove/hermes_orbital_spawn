@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/orbital/base_orbital/base_orbital.json",
   "display_name": "Hermes",
-  "description": "!LOC:Space Probe- Fast. Cheap. Expendable. Provides ground vision. Does not attack.",
+  "description": "!LOC:Space Probe - Fast. Cheap. Expendable. Provides ground vision. Does not attack.",
   "max_health": 50,
   "build_metal_cost": 200,
   "system_velocity_multiplier": 22,
