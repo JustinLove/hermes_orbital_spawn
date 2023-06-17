@@ -4,8 +4,6 @@
   "description": "!LOC:Space Probe - Fast. Cheap. Expendable. Provides ground vision. Does not attack.",
   "max_health": 50,
   "build_metal_cost": 200,
-  "system_velocity_multiplier": 22,
-  "gravwell_velocity_multiplier": 9,
   "attachable": {
     "offsets": {
       "root": [
@@ -17,11 +15,13 @@
   },
   "energy_efficiency_requirement": 0.9,
   "unit_types": [
+    "UNITTYPE_Custom58",
     "UNITTYPE_Mobile",
     "UNITTYPE_Orbital",
     "UNITTYPE_Basic",
     "UNITTYPE_Scout",
-    "UNITTYPE_FactoryBuild"
+    "UNITTYPE_FactoryBuild",
+    "UNITTYPE_Interplanetary"
   ],
   "command_caps": [
     "ORDER_Move",
